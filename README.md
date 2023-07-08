@@ -34,7 +34,7 @@ This project aims to develop a sales dashboard that provides an overview of key 
 
 ## Installation
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/Bright136/Sales-Dashboard-with-PowerBI`
 
 2. Install dependencies: `PowerBI Desktop`
 
