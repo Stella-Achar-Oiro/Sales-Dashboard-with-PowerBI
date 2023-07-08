@@ -36,13 +36,9 @@ This project aims to develop a sales dashboard that provides an overview of key 
 
 1. Clone the repository: `git clone [repository URL]`
 
-2. Install dependencies: `npm install` or `pip install -r requirements.txt`
+2. Install dependencies: `PowerBI Desktop`
 
-3. Configure the database connection settings in the `config.py` file.
-
-4. Run the application: `npm start` or `python app.py`
-
-5. Access the sales dashboard in your web browser at `http://localhost:3000` or as specified.
+3. Open the sales dashboard using the PowerBI.
 
 ## Usage
 
