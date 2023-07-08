@@ -1,10 +1,10 @@
 # Sales Dashboard with PowerBi
 
-Sure! Here's an example structure for a README file for a sales dashboard project:
-
-# Sales Dashboard Project
-
 This project aims to develop a sales dashboard that provides an overview of key sales metrics and visualizations to help track and analyze sales performance. The dashboard will provide real-time data insights to support informed decision-making and improve sales strategies.
+
+## Dashboard
+
+<img src="https://drive.google.com/uc?export=view&id=1nOdgo_2DY3UlSJf-Htd1RhEIaDAhajPB"/>
 
 ## Features
 
