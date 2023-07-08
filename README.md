@@ -28,7 +28,7 @@ This project aims to develop a sales dashboard that provides an overview of key 
 
 ## Technologies Used
 
-- MircoSoft PowerBI
+- Microsoft PowerBI
 
 
 
