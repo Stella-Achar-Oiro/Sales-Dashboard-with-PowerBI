@@ -72,7 +72,7 @@ This project aims to develop a sales dashboard that provides an overview of key 
   </tr>
   <tr>
     <td>Bright Eshun</td>
-    <td><a href="https://twitter.com/bright_eshun_">@bright_eshun_</a></td>
+    <td><a href="[https://twitter.com/bright_eshun_](https://twitter.com/Stella_Oiro)">@bright_eshun_</a></td>
     <td><a href="https://www.linkedin.com/in/bright-eshun-9a8a51100/">@brighteshun</a></td>
     <td><a href="https://github.com/Bright136">@bright136</a></td>
     <td><a href="https://huggingface.co/bright1">@bright1</a></td>
